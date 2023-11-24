@@ -3,6 +3,9 @@ title: "Education"  # Add a page title.
 date: "2021-11-06T00:00:00Z"
 type: landing
 
+banner:
+  image: education-banner.png
+
 sections:
   - block: markdown
     content:

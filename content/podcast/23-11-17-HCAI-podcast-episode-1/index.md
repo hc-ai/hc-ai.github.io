@@ -1,5 +1,5 @@
 ---
-title: Episode 1
+title: HCAI Podcast Episode 1 - What is HCAI?
 date: 2023-11-17
 profile: false
 type: podcast
@@ -26,7 +26,8 @@ links:
   name: RSS
   url: https://anchor.fm/s/ed407214/podcast/rss
 
-  
+banner:
+  image: podcast-header.jpg  
 
 ---
 
