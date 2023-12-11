@@ -27,16 +27,10 @@ interests:
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-
+    - course: PhD in Human-computer Interaction
+      institution: Stockholm University
+      year: 2013
+    
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -44,21 +38,31 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'mailto:mattias.rost@ait.gu.se'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/rrostt
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
+    link: https://scholar.google.com/citations?user=S37X2zsAAAAJ
+  - icon: linkedin
     icon_pack: fab
-    link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+    link: https://www.linkedin.com/in/mattias-rost-5488b01/
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0002-6842-0226
+  - icon: dblp
+    icon_pack: ai
+    icon_title: dblp
+    link: https://dblp.org/pid/r/MattiasRost.html
+  - icon: scopus
+    icon_pack: ai
+    icon_title: Scopus
+    link: https://www.scopus.com/authid/detail.uri?authorId=14042265800
+  - icon: acm
+    icon_pack: ai
+    link: https://dl.acm.org/profile/81342509680
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -72,6 +76,4 @@ user_groups:
   - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Mattias Rost is a senior lecturer at the division of human computer interaction at the University of Gothenburg. He has got a PhD from Stockholm University in Human Computer Interaction after conducting research at the Mobile Life Centre. He was previously a research associate at the University of Glasgow, and a digital strategist at the IT consultancy firm Iteam. He has a long industry and academic career. His research interests consists of mobile communication, mobile interaction, digital wellbeing and health, mindfulness, and processes for research design and development.
