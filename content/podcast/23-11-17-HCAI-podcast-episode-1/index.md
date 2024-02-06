@@ -21,6 +21,10 @@ links:
   icon_pack: fa
   name: Pocket Cast
   url: https://pca.st/r6ep4lkl
+- icon: youtube
+  icon_pack: fab
+  name: YouTube
+  url: https://www.youtube.com/watch?v=BkdVwNripcI
 - icon: rss
   icon_pack: fa
   name: RSS
