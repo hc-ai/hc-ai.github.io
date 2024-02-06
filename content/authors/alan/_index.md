@@ -44,7 +44,7 @@ social:
     link: https://recsys.social/alansaid
   - icon: square
     icon_pack: fa
-    link: https://bsky.app/profile/alansaid.bsky.social
+    link: https://bsky.app/profile/alansaid.com
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/alansaid
