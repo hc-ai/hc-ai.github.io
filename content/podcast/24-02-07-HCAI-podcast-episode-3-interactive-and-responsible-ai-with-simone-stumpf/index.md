@@ -13,10 +13,10 @@ links:
   icon_pack: fab
   name: Spotify
   url:  https://open.spotify.com/episode/79HetDQmUQY0upXwhRArfy?si=9nnmnyY6TwCHPWT4-fq7ag
-#- icon: apple
-#  icon_pack: fab
-# name: Apple Podcasts
-#  url: https://podcasts.apple.com/us/podcast/hcai-second-episode-in-which-mattias-gives-his-views-on-hcai/id1717384556?i=1000637665175
+- icon: apple
+  icon_pack: fab
+ name: Apple Podcasts
+  url: https://podcasts.apple.com/se/podcast/human-centered-artificial-intelligence/id1717384556?i=1000644492030
 - icon: podcast
   icon_pack: fa
   name: Pocket Cast
