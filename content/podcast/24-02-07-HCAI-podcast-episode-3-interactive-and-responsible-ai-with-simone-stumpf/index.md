@@ -15,7 +15,7 @@ links:
   url:  https://open.spotify.com/episode/79HetDQmUQY0upXwhRArfy?si=9nnmnyY6TwCHPWT4-fq7ag
 - icon: apple
   icon_pack: fab
- name: Apple Podcasts
+  name: Apple Podcasts
   url: https://podcasts.apple.com/se/podcast/human-centered-artificial-intelligence/id1717384556?i=1000644492030
 - icon: podcast
   icon_pack: fa
