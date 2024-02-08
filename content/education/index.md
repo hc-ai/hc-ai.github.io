@@ -30,7 +30,7 @@ sections:
       title: Design and AI
       text: |-
         The progress of recent years in AI and machine learning has resulted in that we, today, live with a large number of applications in our everyday lives. What does that mean for the services we use? And how can we design new such applications? Just as one needs to have a basic understanding of the strength of different materials to design buildings, we need an understanding of the material properties of the algorithms behind these applications.
-        ![HCAI students](design_ai.jpg)
+        ![HCAI students](design_AI.jpg)
 
           The course is about learning about AI and machine learning as a design material, to be able to use these in design for new digital services. To do this, you will learn basic concepts and techniques in machine learning to be able to understand its material properties, and how they can be used in design. You will also learn various existing tools and how they can be used to apply machine learning in new services. After this, it is discussed how these material properties can be used in the development of new services, and various applications are critically examined. In the course, we discuss existing and new applications of machine learning, as well as ethical issues regarding the use of these techniques.
 
