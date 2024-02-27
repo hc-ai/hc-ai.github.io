@@ -42,4 +42,13 @@ The fourth episode of the HCAI podcast in which we talk about urban informatics 
 
 In this episode, we have the pleasure to talk about HCAI with Daniele Quercia, discussing topics such as urban informatics and responsible AI. Daniele Quercia is Director of Reponsible AI at Nokia Bell Labs and Professor of Irban Informatics and King's College London.
 
+
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3COR9beD5hMaogrWIy5DQB?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/se/podcast/hcai-episode-4-urban-informatics-and-responsible-ai/id1717384556?i=1000646239946"></iframe>
+
+<iframe width="100%" height="600" src="https://www.youtube.com/embed/4asnMrYUYO0" title="HCAI Episode 4 - Urban Informatics and Responsible AI with Daniele Quercia" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 <img src="featured.jpg" width="200px">
