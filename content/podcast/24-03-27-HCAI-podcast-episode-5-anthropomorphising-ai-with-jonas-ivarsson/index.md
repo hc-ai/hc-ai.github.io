@@ -35,7 +35,7 @@ banner:
 
 ---
 
-The fourth episode of the HCAI podcast in which we talk about how artificial intelligence agents are anthropomorphised with [Jonas Ivarsson](https://www.gu.se/om-universitetet/hitta-person/jonasivarsson).
+The fifth episode of the HCAI podcast in which we talk about how artificial intelligence agents are anthropomorphised with [Jonas Ivarsson](https://www.gu.se/om-universitetet/hitta-person/jonasivarsson).
 
 <!--more-->
 
