@@ -40,7 +40,7 @@ The fifth episode of the HCAI podcast in which we talk about how artificial inte
 <!--more-->
 
 
-In this episode, we have the pleasure to talk about HCAI with Jonas Ivarsson, discussing topics such as trust, interaction, and anthropomophisation of AI. Jonas Ivarssin is Professor of Informatics at University of Gothenburg. Prior to this, he was professor of pedagogyc.
+In this episode, we have the pleasure to talk about HCAI with Jonas Ivarsson, discussing topics such as trust, interaction, and anthropomophisation of AI. Jonas Ivarsson is Professor of Informatics at University of Gothenburg. Prior to this, he was professor of education.
 
 
 
