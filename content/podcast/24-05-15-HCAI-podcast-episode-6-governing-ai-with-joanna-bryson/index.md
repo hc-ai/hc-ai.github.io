@@ -40,7 +40,7 @@ The sixtth episode of the HCAI podcast in which we talk about artificial intelli
 <!--more-->
 
 
-In this episode, we have the privilege to talk with Joanna Bryson in our venture to understand what HCAI is. We discuss topics such as governance, policy making, regional control, and philosophy. Joanna Bryson is Professor of Ethics and Technology in the Centre for Digital Governance at Hertie School, in Berlin.
+In this episode, we have the privilege to talk with Joanna Bryson in our venture to understand what HCAI is. We discuss topics such as governance, policymaking, regional control, and philosophy. Joanna Bryson is Professor of Ethics and Technology in the Centre for Digital Governance at Hertie School, in Berlin.
 
 
 
