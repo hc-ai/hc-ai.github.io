@@ -35,7 +35,7 @@ banner:
 
 ---
 
-The sixtth episode of the HCAI podcast in which we talk about artificial intelligence governance with [Joanna Bryson](https://www.joannajbryson.org/).
+The sixth episode of the HCAI podcast in which we talk about artificial intelligence governance with [Joanna Bryson](https://www.joannajbryson.org/).
 
 <!--more-->
 
