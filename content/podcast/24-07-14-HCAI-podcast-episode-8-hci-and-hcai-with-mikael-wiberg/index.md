@@ -13,10 +13,10 @@ links:
   icon_pack: fab
   name: Spotify
   url:  https://open.spotify.com/episode/3bfqRXlSwyA4LONzVoiRhg?si=040aae2e3de8425d
-#- icon: apple
-#  icon_pack: fab
-#  name: Apple Podcasts
-#  url: https://podcasts.apple.com/se/podcast/human-centered-artificial-intelligence/id1717384556?i=1000658141990
+- icon: apple
+  icon_pack: fab
+  name: Apple Podcasts
+  url: https://podcasts.apple.com/se/podcast/human-centered-artificial-intelligence/id1717384556?i=1000662283991
 - icon: podcast
   icon_pack: fa
   name: Pocket Cast
