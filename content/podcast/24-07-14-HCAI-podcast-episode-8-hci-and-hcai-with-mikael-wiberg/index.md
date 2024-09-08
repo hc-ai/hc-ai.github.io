@@ -35,7 +35,7 @@ banner:
 
 ---
 
-The seventh episode of the HCAI podcast in which we talk about human-computer interaction, artificial intelligence, and the interplay with society [Mikael Wiberg](https://www.umu.se/en/staff/mikael-wiberg/).
+The eighth episode of the HCAI podcast in which we talk about human-computer interaction, artificial intelligence, and the interplay with society [Mikael Wiberg](https://www.umu.se/en/staff/mikael-wiberg/).
 
 
 
@@ -47,7 +47,7 @@ In this episode of the Human-Centered Artificial Intelligence podcast, we talk t
 
 <!--iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/se/podcast/human-centered-artificial-intelligence/id1717384556?i=1000658141990"></iframe-->
 
-<iframe width="100%" height="600" https://www.youtube.com/embed/6vJi4n47yps?si=U6dOqMYZcKHzWcxE" title="HCAI Podcast Episode 8 - HCI and HCAI with Mikael Wiberg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="600" src="https://www.youtube.com/embed/6vJi4n47yps?si=U6dOqMYZcKHzWcxE" title="HCAI Podcast Episode 8 - HCI and HCAI with Mikael Wiberg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 
