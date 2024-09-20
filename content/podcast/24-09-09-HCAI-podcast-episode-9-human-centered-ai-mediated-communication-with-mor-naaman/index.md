@@ -35,7 +35,7 @@ banner:
 
 ---
 
-The ningth episode of the HCAI podcast in which we talk about how AI is impacting communication between people, online as well as offline, with [Mor Naaman](https://tech.cornell.edu/people/mor-naaman/).
+The ninth episode of the HCAI podcast in which we talk about how AI is impacting communication between people, online as well as offline, with [Mor Naaman](https://tech.cornell.edu/people/mor-naaman/).
 
 
 
