@@ -38,7 +38,6 @@ banner:
 The tenth episode of the HCAI podcast in which we talk about AI's environmental impact with [Ricardo Baeza-Yates](https://www.khoury.northeastern.edu/people/ricardo-baeza-yates/). He discusses the importance of Earth-centered AI, ethical considerations, and the need for interdisciplinary teams and better evaluations to ensure AI benefits society and the planet.
 
 
-
 <!--more-->
 Ricardo Baeza-Yates is the director of research for Experiential AI at Northeastern University. With decades of experience spanning algorithms, information retrieval, data mining, machine learning, and responsible AI, Ricardo offers a wealth of knowledge to our discussion. He elaborates on the necessity of Earth-centered AI, emphasizing the important connection between technology and environmental sustainability. Ricardo underscores the urgency of evaluating the impacts of AI on both human society and our planet, advocating for principled evaluations and minimized harms in AI's deployment.
 
