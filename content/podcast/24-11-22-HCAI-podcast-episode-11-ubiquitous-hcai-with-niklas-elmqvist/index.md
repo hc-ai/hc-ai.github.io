@@ -13,10 +13,10 @@ links:
   icon_pack: fab
   name: Spotify
   url:  https://open.spotify.com/show/7onlyRPluMk0Vd6CaJcR9r?si=6576cb8ddff74a2c
-#- icon: apple
-#  icon_pack: fab
-#  name: Apple Podcasts
-#  url: https://podcasts.apple.com/se/podcast/human-centered-artificial-intelligence/id1717384556?i=1000670315944
+- icon: apple
+  icon_pack: fab
+  name: Apple Podcasts
+  url: https://podcasts.apple.com/se/podcast/human-centered-artificial-intelligence/id1717384556?i=1000677880493
 - icon: podcast
   icon_pack: fa
   name: Pocket Cast
@@ -48,7 +48,7 @@ This discussion offers a deep dive into the technical and philosophical aspects 
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3uymCD1OKtHvSEpftF2jTV/video?utm_source=generator" width="100%" height="351" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-<!-- iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/se/podcast/human-centered-artificial-intelligence/id1717384556?i=1000670315944"></iframe-->
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/se/podcast/human-centered-artificial-intelligence/id1717384556?i=1000677880493"></iframe>
 
 
 <iframe width="100%" height="600" src="https://www.youtube.com/embed/j3xii0Poy0U?si=EUxDkqWL9FemfEcW" title="HCAI 11 -  Ubiquitous HCAI with Niklas Elmqvist" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
