@@ -35,7 +35,7 @@ banner:
 
 ---
 
-In this episode, we discuss the evolving intersection of human-computer interaction and AI with Niklas Elmqvist, a professor at Aarhus University and expert in data visualization. Niklas shares his insights on how HCI and AI can work together to create systems that amplify, augment, and empower human capabilities while ensuring transparency and user control.
+In this episode, we discuss the evolving intersection of human-computer interaction and AI with [Niklas Elmqvist](https://cs.au.dk/~elm/), a professor at Aarhus University and expert in data visualization. Niklas shares his insights on how HCI and AI can work together to create systems that amplify, augment, and empower human capabilities while ensuring transparency and user control.
 
 
 <!--more-->
