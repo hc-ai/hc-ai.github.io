@@ -10,7 +10,7 @@ last_name: Rost
 superuser: true
 
 # Role/position
-role: Senior Lecturer in Interaction Design
+role: Associate Professor in Interaction Design
 
 # Organizations/Affiliations
 organizations:

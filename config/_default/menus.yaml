@@ -13,7 +13,7 @@ main:
   - name: Podcast
     url: podcast
     weight: 50
-  - name: People
+  - name: Team
     url: people
     weight: 60
   - name: Contact
